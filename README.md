@@ -23,3 +23,6 @@ POST: /users
 GET : /users
 GET : /users/{id}
 
+El diagrama de las tablas usadas es el siguiente:
+
+![image](https://user-images.githubusercontent.com/20742736/135740951-ae50d214-3444-4edb-8bc4-b33668e8e20e.png)
